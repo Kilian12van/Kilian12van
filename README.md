@@ -4,7 +4,7 @@
 Meu nome é Carlos Ivan
 
  
-   • Estou estudando na Alura
+   • 𝐄𝐬𝐭𝐨𝐮 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐧𝐚 𝐀𝐥𝐮𝐫𝐚
  
  
    • Estou me desenvolvendo na linguagem  JavaScript
