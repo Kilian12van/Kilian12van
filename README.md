@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Kilian12van
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+𝐁𝐨𝐚𝐬 𝐯𝐢𝐧𝐝𝐚𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥💙
 
-<!---
-Kilian12van/Kilian12van is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Carlos Ivan
+
+ • Estou estudando na Alura
+ • Estou me desenvolvendo na linguagem JavaScript
+ • Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+ Você pode entrar em contato comigo 📫
+ 
+ Carlosivanlaurelflores@gmail.com 
+ 
+ @carlosivanlaurelflores
